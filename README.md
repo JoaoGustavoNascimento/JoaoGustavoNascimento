@@ -1,7 +1,4 @@
-### Hi there 👋
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jo%C3%A3o-gustavo-nascimento/) [![followersGit](https://img.shields.io/github/followers/JoaoGustavoNascimento?style=social)](https://github.com/JoaoGustavoNascimento)
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoGustavoNascimento&show_icons=true&locale=en" alt="JoaoGustavoNascimento" />
   
